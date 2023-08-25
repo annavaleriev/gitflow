@@ -1,2 +1,2 @@
-def str_func(text):
-    return text.upper()
+def str_func(text_1):
+    return text_1.upper()
